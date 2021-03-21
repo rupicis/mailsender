@@ -1,0 +1,17 @@
+kompilēšana:
+
+  izpilda  taisimani.cmd
+  nepieciešams JDK, var palīdzēt pirmās rindiņas pielabošana
+
+konfigurācija:
+
+  jāpielabo fails config.cfg
+
+izpilde:
+
+  java -jar example.jar
+
+  vai
+
+  java -jar example.jar 8008
+
